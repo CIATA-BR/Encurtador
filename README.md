@@ -284,7 +284,7 @@ A API foi projetada para ser utilizada facilmente via terminal, facilitando uso 
 
 - JAWS
 - NVDA
-
+- Voiceover (Não validado)
 Boas práticas adotadas:
 
 - comandos em uma linha
@@ -311,4 +311,4 @@ Possíveis evoluções do projeto:
 
 Cássio Santos
 
-Projeto desenvolvido como exercício de arquitetura e desenvolvimento de APIs utilizando Spring Boot.
+Projeto desenvolvido como exercício de arquitetura e desenvolvimento de APIs utilizando Java 25.0.2 e Spring Boot 3.5.12.
